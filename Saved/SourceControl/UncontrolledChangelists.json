@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/CastleProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Projects/CastleProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2Z/CH1ILS6C30YICWP9YTR1H8.uasset"
+			]
+		}
+	]
+}
